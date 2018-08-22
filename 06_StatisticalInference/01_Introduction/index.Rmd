@@ -13,7 +13,7 @@ url:
 widgets     : [mathjax]            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 ---
-
+test change
 ## Statistical inference defined
 
 Statistical inference is the process of drawing formal conclusions from
